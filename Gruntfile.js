@@ -15,13 +15,13 @@ module.exports = function(grunt) {
     },
     exec: {
       users: {
-        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection users --file ./config/users.json'
+        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection users --file ./fixture/users.json'
       },
       games: {
-        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection games --file ./config/games.json'
+        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection games --file ./fixture/games.json'
       },
       teams: {
-        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection teams --file ./config/teams.json'
+        cmd: 'mongoimport --jsonArray --drop --upsert --port 17017 --db openRecess --collection teams --file ./fixture/teams.json'
       }
     }
   });
