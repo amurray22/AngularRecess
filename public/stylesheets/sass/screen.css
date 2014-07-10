@@ -3159,7 +3159,7 @@ html, body {
 .intro-strip {
   background-color: #333333; }
   .intro-strip .row {
-    background-image: url("/img/player.svg");
+    background-image: url("/img/player.png");
     background-repeat: no-repeat;
     padding-top: 0.75em;
     padding-bottom: 1em; }
