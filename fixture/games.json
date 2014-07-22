@@ -1,31 +1,31 @@
 [
   {
-    "gameName": "Mark's Soccer Game",
-    "gameType": "Soccer",
+    "gameName": "ABC Tutoring",
+    "gameType": "Tutoring",
     "gameCode": 123,
-    "gameDescription": "Pickup soccer game",
-    "minimumPlayers": 12,
-    "playerLimit": 24,
-    "gameLocation": "Rucker Park",
+    "gameDescription": "Tutoring, ages 7 - 17",
+    "minimumPlayers": 0,
+    "playerLimit": 0,
+    "gameLocation": "ABC Center",
     "gameTime": "13:00",
     "gameDate": "2013-06-12T00:00:00Z",
-    "invitedPlayers": ["+15133074346", "+17816401203"],
-    "confirmedPlayers": ["+16502699118"],
-    "confirmedPlayersCount": 1,
+    "invitedPlayers": 0,
+    "confirmedPlayers": 0,
+    "confirmedPlayersCount": 0,
     "createdAt": "2013-05-01T10:00:11Z",
     "updatedAt": "2013-05-01T10:00:11Z",
     "coord" : {
-      "lat" : 37.774929,
-      "lon" : -122.419416
+      "lat" : 42.349430,
+      "lon" : -71.076907
     }
   },
   {
-    "gameName": "Andrew's Cricket Game",
-    "gameType": "Cricket",
+    "gameName": "Museum of Science - Science Camp",
+    "gameType": "Day Camp",
     "gameCode": 567,
-    "gameDescription": "Organized cricket game",
-    "minimumPlayers": 5,
-    "playerLimit": 10,
+    "gameDescription": "A week long day camp centered on science & engineering",
+    "minimumPlayers": 0,
+    "playerLimit": 0,
     "gameTime": "12:00",
     "gameDate": "2013-06-13T00:00:00Z",
     "invitedPlayers": ["+15133074346"],
@@ -33,17 +33,17 @@
     "createdAt": "2013-05-01T12:00:11Z",
     "updatedAt": "2013-05-01T12:00:11Z",
     "coord" : {
-      "lat" : 37.784929,
-      "lon" : -122.429416
+      "lat" : 42.3676899,
+      "lon" : -71.0705279
     }
   },
   {
-  "gameName": "Jason's Tennis Game",
-  "gameType": "Tennis",
+  "gameName": "Science Club for Girls",
+  "gameType": "Science",
   "gameCode": 400,
-  "gameDescription": "Organized Tennis game",
-  "minimumPlayers": 2,
-  "playerLimit": 10,
+  "gameDescription": "SCFG fosters excitement, confidence and literacy in STEM for girls",
+  "minimumPlayers": 0,
+  "playerLimit": 0,
   "gameTime": "14:22",
   "gameDate": "2013-06-14T00:00:00Z",
   "invitedPlayers": ["+15133074346"],
@@ -51,26 +51,26 @@
   "createdAt": "2013-05-01T12:00:11Z",
   "updatedAt": "2013-05-01T12:00:11Z",
   "coord" : {
-    "lat" : 37.794929,
-    "lon" : -122.459416
+    "lat" : 42.358598,
+    "lon" : -71.111527
   }
   },
   {
-    "gameName": "Playing ball in the park",
-    "gameType": "Basketball",
+    "gameName": "QCC Youth Swim Team",
+    "gameType": "Sports",
     "gameCode": 789,
-    "gameDescription": "Organized basketball game",
-    "minimumPlayers": 5,
-    "playerLimit": 10,
+    "gameDescription": "Recreational youth swim team for girls & boys ages 7-17",
+    "minimumPlayers": 0,
+    "playerLimit": 0,
     "gameTime": "11:15",
     "gameDate": "2013-06-11T00:00:00Z",
-    "invitedPlayers": ["+15133074346", "+17816401203"],
+    "invitedPlayers": 0,
     "confirmedPlayersCount": 0,
     "createdAt": "2013-05-01T12:00:11Z",
     "updatedAt": "2013-05-01T12:00:11Z",
     "coord" : {
-      "lat" : 37.884929,
-      "lon" : -122.529416
+      "lat" : 42.3484653,
+      "lon" : -71.0662126
     }
   }
 ];
